@@ -1,2 +1,2 @@
 # Machine_learning-Projects
-Projects of Machine Learning
+Projects of Linear Regression
